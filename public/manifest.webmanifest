@@ -1,0 +1,15 @@
+{
+  "name": "Ledgerly",
+  "short_name": "Ledgerly",
+  "description": "Personal finance, with clarity.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6f7f4",
+  "theme_color": "#10231c",
+  "icons": [
+    { "src": "ledgerly-icon.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "ledgerly-icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
